@@ -12,7 +12,6 @@ Why?
 Because it's not ready to be published. It's far too small.  
 
 # Documentation
-Some very meaningful docstrings are in `src/terminal_easy.py`. It's a pretty small library at this point. Some docs will be written, but this will suffice for now.
-
+https://github.com/VideoCarp/terminal_easy/wiki/terminal_easy
 # Examples
 Please see the `examples` directory. 
